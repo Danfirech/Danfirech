@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://danpossehlportfolio.netlify.app](https://danpossehlportfolio.netlify.app)
 
-- 💬 Ask me about **React!**
-
 - 📫 How to reach me **DanielPossehl@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
