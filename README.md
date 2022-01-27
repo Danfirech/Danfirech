@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My Name is Dan</h1>
 <h3 align="center">I love to create clean user friendly websites and applications</h3>
 
-- 🔭 I’m currently working on a [Covid Testing Landing Page] (git@github.com:Danfirech/covid-landingpage.git)
+- 🔭 I’m currently working on a [https://github.com/Danfirech/covid-landingpage](https://github.com/Danfirech/covid-landingpage)
 
 - 🌱 I’m currently learning **React and React Native**
 
