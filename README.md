@@ -1,7 +1,7 @@
 <h1 align="center">Hi! Im Dan</h1>
 <h3 align="center">I love to create clean user friendly websites and applications</h3>
 
-- 🔭 I’m currently working on a [https://github.com/Danfirech/beetjuice](https://github.com/Danfirech/beetjuice)
+- 🔭 I’m currently working on a [https://github.com/Danfirech/beetjuice](https://www.bookb33tju1c3.com/)
 
 - 🌱 I’m currently learning **React and React Native**
 
