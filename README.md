@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [https://github.com/Danfirech/beetjuice](https://www.bookb33tju1c3.com/)
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 My favorite language: REACT
 
 - 👨‍💻 All of my projects are available at [https://danpossehlportfolio.netlify.app](https://danpossehlportfolio.netlify.app)
 
